@@ -2,6 +2,7 @@
     <element label="test table" max_length="40" name="x_snc_cs5332870_test_table" type="collection">
         <element label="Boolean1" max_length="40" name="boolean1" type="boolean"/>
         <element label="Integer1" max_length="40" name="integer1" type="integer"/>
+        <element label="integer 3" max_length="40" name="integer_3" type="integer"/>
         <element attributes="edge_encryption_enabled=true" label="String1" max_length="40" name="string1" type="string"/>
     </element>
 </database>

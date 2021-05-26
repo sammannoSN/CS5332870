@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="integer_3" label="integer 3" language="en" table="x_snc_cs5332870_test_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>integer_3</element>
+            <help/>
+            <hint/>
+            <label>integer 3</label>
+            <language>en</language>
+            <name>x_snc_cs5332870_test_table</name>
+            <plural>integer 3s</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>sam.manno@snc</sys_created_by>
+            <sys_created_on>2021-05-26 20:35:14</sys_created_on>
+            <sys_id>bcf0ab621b1030102bcf5280604bcb0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>integer 3</sys_name>
+            <sys_package display_value="CS5332870" source="x_snc_cs5332870">213f432a1b503cd02bcf5280604bcb21</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="CS5332870">213f432a1b503cd02bcf5280604bcb21</sys_scope>
+            <sys_update_name>sys_documentation_x_snc_cs5332870_test_table_integer_3_en</sys_update_name>
+            <sys_updated_by>sam.manno@snc</sys_updated_by>
+            <sys_updated_on>2021-05-26 20:35:14</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
